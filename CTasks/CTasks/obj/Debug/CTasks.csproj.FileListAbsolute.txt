@@ -1,0 +1,7 @@
+D:\Таня\SoftServe\CTasks\CTasks\obj\Debug\CTasks.csprojAssemblyReference.cache
+D:\Таня\SoftServe\CTasks\CTasks\obj\Debug\CTasks.csproj.CoreCompileInputs.cache
+D:\Таня\SoftServe\CTasks\CTasks\bin\Debug\CTasks.exe.config
+D:\Таня\SoftServe\CTasks\CTasks\bin\Debug\CTasks.exe
+D:\Таня\SoftServe\CTasks\CTasks\bin\Debug\CTasks.pdb
+D:\Таня\SoftServe\CTasks\CTasks\obj\Debug\CTasks.exe
+D:\Таня\SoftServe\CTasks\CTasks\obj\Debug\CTasks.pdb
